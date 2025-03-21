@@ -7,9 +7,9 @@
 Create a local VM and implement a mechanism to monitor resource usage. Configure it to auto-scale to a public cloud (e.g., GCP, AWS, or Azure) when resource usage exceeds 75%.
 
 ## Flow 
-![Flow](./images/flow.jpeg)
+![Flow](./flow.jpeg)
 ## Architecture Design
-![Architecture Design](./images/architecture.jpg)
+![Architecture Design](./architecture.jpg)
 
 ## Prerequisites
 - VirtualBox 6.1+ or VMware Workstation/Player
